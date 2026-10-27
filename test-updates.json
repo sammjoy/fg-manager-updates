@@ -1,6 +1,6 @@
 {
-  "version": "2.8.8",
-  "installer_url": "https://github.com/sammjoy/fg-manager-updates/releases/download/v2.8.8-test/FG_Condominium_Manager_Setup_v2.8.8.exe",
-  "sha256": "e0f3eb097d1b003a227a992ed87f9ebd5867f93a38240005d2a6afeb91868c7d",
-  "notes": "FG Condominium Manager v2.8.8 test release — clickable Buildings and Owners dashboard cards, with Back to Dashboard. Test on your own PC first."
+  "notes": "TEST RELEASE: install on your own PC first. NOT for Francesca's production computer. This prerelease does not replace the latest update feed. Commit: 3e6d3379a1b329b51cff2ba2fdc81d5cbb8aa382",
+  "version": "2.8.9",
+  "installer_url": "https://github.com/sammjoy/fg-manager-updates/releases/download/v2.8.9-test/FG_Condominium_Manager_Setup_v2.8.9.exe",
+  "sha256": "b8a192411c8b42471bd73f936d28dc9bc2f4ce3d7bd22832246cfc7f67ff4061"
 }
