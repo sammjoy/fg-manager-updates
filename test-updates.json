@@ -1,6 +1,6 @@
 {
-  "version": "2.9.3",
-  "notes": "TEST RELEASE: install on your own PC first. NOT for Francesca's production computer. This prerelease does not replace the latest update feed. Commit: 22b7e56b950a79d65b74874f3b31cefafdaeeb95",
-  "sha256": "bf2919033839c8f3dd30099bebe835e353032cab653365913dd3666e005c79e8",
-  "installer_url": "https://github.com/sammjoy/fg-manager-updates/releases/download/v2.9.3-test/FG_Condominium_Manager_Setup_v2.9.3.exe"
+  "installer_url": "https://github.com/sammjoy/fg-manager-updates/releases/download/v2.9.4-test/FG_Condominium_Manager_Setup_v2.9.4.exe",
+  "notes": "TEST RELEASE: install on your own PC first. NOT for Francesca's production computer. This prerelease does not replace the latest update feed. Commit: ec09336583127df509cf66d6c0ec628a1e766f93",
+  "version": "2.9.4",
+  "sha256": "df5a825a603e42ea3db37cca66d7fe0527bbbd4fc952239dcaa8b71deea8bdf9"
 }
